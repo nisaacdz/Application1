@@ -1,0 +1,5 @@
+2 players play this game
+Each begin initially with 10 pieces
+The game is in two sections
+In the first section(insertion section)
+One player begins the 
